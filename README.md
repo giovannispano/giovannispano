@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Flutter Developer<br>📚 University of Pisa<br>🖥️ Computer Science
+🌱 Flutter Developer<br>📚 ITS Volta Palermo<br>🖥️ Computer Science | BiomedTech
 
 
 # 💻 Tech Stack:
